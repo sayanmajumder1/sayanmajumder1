@@ -103,9 +103,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sayanmajumder1&theme=radical&no-frame=true&row=1&column=7&margin-w=15" width="95%" style="max-width: 1100px; height: auto;"/>
 </div>
 
-<div align="center" style="margin: 20px 0;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayanmajumder1&theme=github-dark&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" width="95%" style="max-width: 1100px; height: auto;"/>
-</div>
+
 
 <div align="center">
   <table style="border: none; width: 100%; max-width: 1200px; margin: 0 auto;">
