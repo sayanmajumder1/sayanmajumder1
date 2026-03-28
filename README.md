@@ -79,36 +79,36 @@
 
 ### 📈 GitHub Analytics 
 
+### 📈 GitHub Analytics Dashboard
+
 <p align="center">
   <table width="100%">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=sayanmajumder1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&rank_icon=github" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=sayanmajumder1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" alt="GitHub Stats" width="100%"/>
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayanmajumder1&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayanmajumder1&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" width="100%"/>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayanmajumder1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayanmajumder1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&langs_count=8" alt="Top Languages" width="100%"/>
       </td>
       <td width="50%" align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sayanmajumder1&theme=radical" alt="Profile Details" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sayanmajumder1&theme=radical" alt="Profile Details" width="100%"/>
       </td>
     </tr>
   </table>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sayanmajumder1&theme=radical&no-frame=true&row=1&column=6&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sayanmajumder1&theme=radical&no-frame=true&row=1&column=6&margin-w=15" alt="GitHub Trophies" width="90%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayanmajumder1&theme=redical&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" width="90%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayanmajumder1&theme=github-compact&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" width="90%" alt="Activity Graph"/>
 </p>
-
-
 
 
 ### ✍️ Random Dev Quote
