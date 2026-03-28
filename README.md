@@ -78,36 +78,47 @@
 
 ### 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayanmajumder1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayanmajumder1&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayanmajumder1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&langs_count=6&exclude_repo=README" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sayanmajumder1&theme=radical" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sayanmajumder1&theme=radical&no-frame=true&row=1&column=7" width="90%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayanmajumder1&theme=github-dark&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" width="90%" />
-</p>
-
-<p align="center">
-  <table>
+<div align="center">
+  <table style="border: none; width: 100%; max-width: 1200px; margin: 0 auto;">
     <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayanmajumder1&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&langs_count=6" width="400"/>
+      <td width="50%" align="center" style="padding: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=sayanmajumder1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" width="100%" style="max-width: 500px; height: auto;"/>
       </td>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sayanmajumder1&theme=radical" width="400"/>
+      <td width="50%" align="center" style="padding: 10px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayanmajumder1&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="100%" style="max-width: 500px; height: auto;"/>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center" style="padding: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayanmajumder1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&langs_count=6" width="100%" style="max-width: 500px; height: auto;"/>
+      </td>
+      <td width="50%" align="center" style="padding: 10px;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sayanmajumder1&theme=radical" width="100%" style="max-width: 500px; height: auto;"/>
       </td>
     </tr>
   </table>
-</p>
+</div>
+
+<div align="center" style="margin: 20px 0;">
+  <img src="https://github-profile-trophy.vercel.app/?username=sayanmajumder1&theme=radical&no-frame=true&row=1&column=7&margin-w=15" width="95%" style="max-width: 1100px; height: auto;"/>
+</div>
+
+<div align="center" style="margin: 20px 0;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayanmajumder1&theme=github-dark&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" width="95%" style="max-width: 1100px; height: auto;"/>
+</div>
+
+<div align="center">
+  <table style="border: none; width: 100%; max-width: 1200px; margin: 0 auto;">
+    <tr>
+      <td width="50%" align="center" style="padding: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayanmajumder1&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&langs_count=6" width="100%" style="max-width: 500px; height: auto;"/>
+      </td>
+      <td width="50%" align="center" style="padding: 10px;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sayanmajumder1&theme=radical" width="100%" style="max-width: 500px; height: auto;"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ### ✍️ Random Dev Quote
 
