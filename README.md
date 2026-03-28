@@ -17,7 +17,8 @@
 
 ### 🧑‍💻 About Me
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350"/>
+
 
 - 🎓 **BCA Graduate (2025)** with a passion for building impactful digital solutions.
 - 🌱 Currently diving deep into **AI Tools (GPT, Claude, Grok), Prompt Engineering, Google Cloud, and UI/UX with Figma**.
