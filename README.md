@@ -17,7 +17,7 @@
 
 ### 🧑‍💻 About Me
 
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350"/>
+  <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 
 
 - 🎓 **BCA Graduate (2025)** with a passion for building impactful digital solutions.
