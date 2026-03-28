@@ -57,13 +57,13 @@
 
 <p align="center">
   <!-- Row 1 -->
-  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart,java,kotlin" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart,java" />
   <br/>
   <!-- Row 2 -->
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
   <br/>
   <!-- Row 3 -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,firebase,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,php,firebase,mysql" />
   <br/>
   <!-- Row 4 -->
   <img src="https://skillicons.dev/icons?i=git,github,figma,gcp,linux,vscode" />
@@ -87,17 +87,7 @@
   <img width="48%" src="https://github-profile-trophy.vercel.app/?username=sayanmajumder1&theme=radical&no-frame=true&row=1&column=4&margin-w=15" />
 </p>
 
----
 
-### 🎯 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [**Portfolio Website**](https://sayanmajumder1.github.io/Sayan_Majumder_Portfolio/) | Personal portfolio showcasing skills and projects | HTML, CSS, JavaScript |
-| [**Flutter App**](#) | Cross-platform mobile application | Flutter, Dart, Firebase |
-| [**AI Integration Demo**](#) | Exploring AI capabilities in real-world apps | Python, OpenAI API, Flask |
-
----
 
 ### ✍️ Random Dev Quote
 
