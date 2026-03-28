@@ -95,7 +95,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayanmajumder1&theme=github-dark&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" width="90%" />
 </p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayanmajumder1&" alt="sayanmajumder1" /></p>
 
 ### ✍️ Random Dev Quote
 
