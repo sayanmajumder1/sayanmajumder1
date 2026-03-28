@@ -113,13 +113,13 @@
 
 
 <div align="center" style="margin: 24px 0 32px 0;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayanmajumder1&theme=github-dark&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" width="95%" style="max-width: 1200px; height: auto; border-radius: 16px;"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayanmajumder1&theme=githubdark&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" width="95%" style="max-width: 1200px; height: auto; border-radius: 16px;"/>
 </div>
 
 
 
 
-###✍️ Random Dev Quote
+✍️ Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
