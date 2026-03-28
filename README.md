@@ -96,7 +96,18 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayanmajumder1&theme=github-dark&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" width="90%" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayanmajumder1&show_icons=true&locale=en&layout=compact" alt="sayanmajumder1" /></p>
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayanmajumder1&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&langs_count=6" width="400"/>
+      </td>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sayanmajumder1&theme=radical" width="400"/>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ### ✍️ Random Dev Quote
 
