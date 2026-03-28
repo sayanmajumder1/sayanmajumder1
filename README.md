@@ -1,21 +1,24 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sayan Majumder</h1>
-<h3 align="center">🚀 Passionate Frontend & Mobile App Developer from India</h3>
+<h3 align="center">A passionate Android and web developer from India</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sayanmajumder1&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayanmajumder1&label=Profile%20views&color=0e75b6&style=flat" alt="sayanmajumder1" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayanmajumder1" alt="sayanmajumder1" /></a> </p>
 
 ---
 
-### 👨‍💻 About Me
+👨‍💻 About Me
 - 🎓 Completed **BCA (2025)**
 - 🌱 I’m currently learning **AI Tools (GPT, Claude, Grok), Prompt Engineering, Google Cloud, UI/UX with Figma**
 - 💬 Ask me about **Flutter, Web Development, AI Tools, Prompt Engineering**
 - 📫 Reach me at **sayanmajumder566@gmail.com**
+- 📄 Know about my experiences [https://drive.google.com/file/d/1VbBA5gxGpl65BG7PPFapZYdoez0G8qhL/view?usp=sharing]  (https://drive.google.com/file/d/1VbBA5gxGpl65BG7PPFapZYdoez0G8qhL/view?usp=sharing)
+
 
 ---
 
-### 🌐 Portfolio
+🌐 Portfolio
 🔗 https://sayanmajumder1.github.io/Sayan_Majumder_Portfolio/
 
 ---
@@ -26,16 +29,46 @@
 <a href="https://linkedin.com/in/ayan-majumder-841a92276"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
 <a href="https://instagram.com/sayan_majumder1"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
 <a href="https://stackoverflow.com/users/sayan-majumder"><img src="https://skillicons.dev/icons?i=stackoverflow" height="40"/></a>
-<a href="https://auth.geeksforgeeks.org/user/https://share.google/owmmowvenuy2zsqpj"><img src="https://img.icons8.com/color/48/GeeksforGeeks.png" height="40"/></a>
+<a href="https://share.google/owmmowvenuy2zsqpj"><img src="https://img.icons8.com/color/48/GeeksforGeeks.png" height="40"/></a>
 </p>
 
 ---
 
 ### 🛠️ Languages & Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=android,bootstrap,c,cpp,css,dart,figma,firebase,flutter,gcp,git,html,java,js,linux,mysql,nodejs,oracle,php,python,tailwind" />
-</p>
 
+<!-- Row 1 -->
+<img src="https://skillicons.dev/icons?i=android" />
+<img src="https://skillicons.dev/icons?i=bootstrap" />
+<img src="https://skillicons.dev/icons?i=c" />
+<img src="https://skillicons.dev/icons?i=cpp" />
+<img src="https://skillicons.dev/icons?i=css" />
+
+<!-- Row 2 -->
+<img src="https://skillicons.dev/icons?i=dart" />
+<img src="https://skillicons.dev/icons?i=figma" />
+<img src="https://skillicons.dev/icons?i=firebase" />
+<img src="https://skillicons.dev/icons?i=flutter" />
+<img src="https://skillicons.dev/icons?i=gcp" />
+
+<!-- Row 3 -->
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=js" />
+<img src="https://skillicons.dev/icons?i=linux" />
+
+<!-- Row 4 -->
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=php" />
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=tailwind" />
+
+<!-- Oracle not supported → use devicon -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/>
+
+</p>
 ---
 
 ### 💻 Tech Stack Card
