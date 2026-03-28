@@ -78,37 +78,48 @@
 
 ### 📈 GitHub Analytics
 
-### 📈 GitHub Analytics Dashboard
-
 <div align="center">
-  <table style="border: none; width: 100%; max-width: 1200px; margin: 0 auto; border-collapse: collapse;">
+  <table style="border: none; width: 100%; max-width: 1300px; margin: 0 auto; border-collapse: separate; border-spacing: 24px;">
+    <!-- Row 1: Single cell (full width) -->
     <tr>
-      <td width="50%" align="center" style="padding: 12px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=sayanmajumder1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" width="100%" style="max-width: 500px; height: auto;"/>
-      </td>
-      <td width="50%" align="center" style="padding: 12px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayanmajumder1&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="100%" style="max-width: 500px; height: auto;"/>
+      <td colspan="2" align="center" style="padding: 0; background: linear-gradient(135deg, rgba(108, 99, 255, 0.08) 0%, rgba(108, 99, 255, 0.02) 100%); border-radius: 20px; backdrop-filter: blur(2px); transition: transform 0.3s ease;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayanmajumder1&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="100%" style="max-width: 100%; height: auto; display: block; border-radius: 16px;"/>
       </td>
     </tr>
+    <!-- Row 2: Two cells (50% each) -->
     <tr>
-      <td width="50%" align="center" style="padding: 12px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayanmajumder1&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&langs_count=6" width="100%" style="max-width: 500px; height: auto;"/>
+      <td width="50%" align="center" style="padding: 0; background: linear-gradient(135deg, rgba(108, 99, 255, 0.08) 0%, rgba(108, 99, 255, 0.02) 100%); border-radius: 20px; backdrop-filter: blur(2px); transition: transform 0.3s ease;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sayanmajumder1&theme=radical" width="100%" style="max-width: 100%; height: auto; display: block; border-radius: 16px;"/>
       </td>
-      <td width="50%" align="center" style="padding: 12px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sayanmajumder1&theme=radical" width="100%" style="max-width: 500px; height: auto;"/>
+      <td width="50%" align="center" style="padding: 0; background: linear-gradient(135deg, rgba(108, 99, 255, 0.08) 0%, rgba(108, 99, 255, 0.02) 100%); border-radius: 20px; backdrop-filter: blur(2px); transition: transform 0.3s ease;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sayanmajumder1&theme=radical" width="100%" style="max-width: 100%; height: auto; display: block; border-radius: 16px;"/>
       </td>
     </tr>
   </table>
 </div>
 
-<div align="center" style="margin: 16px 0;">
-  <img src="https://github-profile-trophy.vercel.app/?username=sayanmajumder1&theme=radical&no-frame=true&row=1&column=7&margin-w=12" width="95%" style="max-width: 1100px; height: auto;"/>
+<div align="center">
+  <table style="border: none; width: 100%; max-width: 1300px; margin: 0 auto; border-collapse: separate; border-spacing: 24px;">
+     <tr>
+      <td width="50%" align="center" style="padding: 0; background: linear-gradient(135deg, rgba(108, 99, 255, 0.08) 0%, rgba(108, 99, 255, 0.02) 100%); border-radius: 20px; backdrop-filter: blur(2px); transition: transform 0.3s ease;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sayanmajumder1&theme=radical" width="100%" style="max-width: 580px; height: auto; display: block; border-radius: 16px;"/>
+       </td>
+      <td width="50%" align="center" style="padding: 0; background: linear-gradient(135deg, rgba(108, 99, 255, 0.08) 0%, rgba(108, 99, 255, 0.02) 100%); border-radius: 20px; backdrop-filter: blur(2px); transition: transform 0.3s ease;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sayanmajumder1&theme=radical" width="100%" style="max-width: 580px; height: auto; display: block; border-radius: 16px;"/>
+       </td>
+     </tr>
+   </table>
 </div>
 
-<div align="center" style="margin: 16px 0;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayanmajumder1&theme=github-dark&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" width="95%" style="max-width: 1100px; height: auto;"/>
+
+<div align="center" style="margin: 24px 0 32px 0;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayanmajumder1&theme=github-dark&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" width="95%" style="max-width: 1200px; height: auto; border-radius: 16px;"/>
 </div>
-### ✍️ Random Dev Quote
+
+
+
+
+###✍️ Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
